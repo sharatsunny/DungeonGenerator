@@ -1,2 +1,3 @@
 # DungeonGenerator
  
+DungeonGenerator, as the name suggests, it's a simple dungeon generator, I created it as my first project in C++ to try and both learn and get used to coding in C++ for the first time, it's still a work in progress since I'm still working on improving it , I lack knowledge in procedural generation techniques to improve it so I'm just sticking with what I know and doing the best I can. Originally it was intended to be a rogue-like/ARPG with procedurally generated levels but currently the dungeon gernerator only works in editor, I have yet to try and make it work well during runtime also there are probably a lot of bugs here and there alongside poor coding practices as usual
